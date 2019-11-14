@@ -93,6 +93,7 @@
             this.MaximumSize = new System.Drawing.Size(620, 350);
             this.MinimumSize = new System.Drawing.Size(620, 350);
             this.Name = "Form_Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_Logo)).EndInit();
             this.ResumeLayout(false);
